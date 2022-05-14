@@ -3,7 +3,7 @@
         BlooketCryptoHacks:
     </h2>
     <p>
-        <a href="function _0x424d() {
+        <a href="javascript:function _0x424d() {
     var _0x10b2b7 = [
         '8px',
         'he\x20platfor',
@@ -104,7 +104,7 @@ function _0x544e(_0x288048, _0x9d3619) {
         </a>
     </p>
         <p>
-        <a href="(function (_0x1bee85, _0x118213) {
+        <a href="javascript:(function (_0x1bee85, _0x118213) {
     var _0x4f0d2b = _0x1afd, _0x4da7bc = _0x1bee85();
     while (!![]) {
         try {
